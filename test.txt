@@ -1,3 +1,7 @@
+
+Can you send the latest Excel file Uline I don't have the contacts tab
+
+
 We could get the events critical and non-critical somebody plug 
 But with the audit log the query is much small slower
 What can be done to speed it up 
