@@ -1,3 +1,5 @@
+It seems to be working in unity sea lion can you do some testing from your side
+
 
 Looks looks like this was reported anyway T by veggie and was never fixed 
 Could you look into this for me?
